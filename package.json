@@ -1,10 +1,9 @@
 {
-	"name": "tinder-react-native",
-	"description": "Tinder React Native clone",
-	"version": "0.2.0",
-	"author": "Steven Persia",
+	"name": "react-native",
+	"description": "react native assessment",
+	"version": "0.0.0",
+	"author": "BlackBerry",
 	"licence": "MIT",
-	"homepage": "https://github.com/stevenpersia/tinder-react-native",
 	"private": true,
 	"scripts": {
 		"lint": "eslint ./components ./containers --fix",
